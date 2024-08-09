@@ -330,6 +330,12 @@ section .title::after{
 .skills .skills-content .right .html::before{
     width: 93%;
 }
+.skills .skills-content .right .bubble::before{
+    width: 85%;
+}
+.skills .skills-content .right .flutterFlow::before{
+    width: 30%;
+}
 .skills .skills-content .right .css::before{
     width: 85%;
 }
